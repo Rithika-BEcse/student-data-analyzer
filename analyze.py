@@ -1,4 +1,5 @@
-# Analyzing student data (basic example)
+# Student Data Analyzer (Simple Python Project)
+# This script analyzes students' scores and prints performance insights
 
 students = [
     {"name": "Arun", "marks": 78},
@@ -7,7 +8,14 @@ students = [
     {"name": "Sara", "marks": 88},
 ]
 
-# Print high scorers
+# Calculate class average
+total = sum(s["marks"] for s in students)
+avg = total / len(students)
+
+print(f"Class Average: {avg}")
+
+# Print students scoring above average
+print("\nStudents above class average:")
 for s in students:
-    if s["marks"] > 80:
-        print(f"{s['name']} scored above 80")
+    if s["marks"] > avg:
+        print(f"- {s['name']} ({s['marks']} marks)")
