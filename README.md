@@ -57,6 +57,9 @@ student-data-analyzer/
 Below is a sample program execution taken from VS Code:
 
 <img width="1917" height="1008" alt="Screenshot 2025-11-29 172327" src="https://github.com/user-attachments/assets/2a89deb6-7dc4-4014-a2da-c598dd5f8703" />
+
+<img width="1820" height="336" alt="Screenshot 2025-11-29 174122" src="https://github.com/user-attachments/assets/995a15f0-e21b-44e3-a2e9-aac4e995fa15" />
+
 ### 📌 Output Explanation
 
 The program runs a simple Python demo that:
