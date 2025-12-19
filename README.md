@@ -51,7 +51,7 @@ A Python mini-project to evaluate password strength based on security rules.
 
 ## 📫 Connect With Me  
 
-- 💼 LinkedIn:(https://linkedin.com/in/rithika-l
+- 💼 LinkedIn:https://www.linkedin.com/in/rithika-l-4060a4256
 )
 - 🧑‍💻 GitHub: https://github.com/Rithika-BEcse  
 
