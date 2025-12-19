@@ -1,73 +1,60 @@
-# Student Data Analyzer  
+# Hi, I'm Rithika 👋  
 
-A collection of simple Python mini-projects built to practice beginner-friendly automation, data analysis, and utility tools.
-
----
-
-## 📘 1. Student Data Analyzer  
-Processes sample student data and prints insights.
-
-### Features  
-- Iterates through student records  
-- Finds high scorers  
-- Displays clean formatted output  
+🎓 Computer Science Engineering Graduate  
+💻 Python Developer | Data Analysis | SQL  
+📍 Chennai, India  
 
 ---
 
-## 🔐 2. Password Checker  
-Validates password structure based on simple rules.
+## 👩‍💻 About Me  
 
-### Checks for  
-- Minimum length  
-- Letters & digits  
-- Basic security rules  
+I am a Computer Science Engineering graduate with a strong interest in **Python development, data analysis, and problem-solving**.  
+I enjoy building practical projects that apply programming concepts to real-world scenarios.  
 
----
-
-## 🛡️ 3. Password Strength Checker  
-A mini-project with **Console + Tkinter GUI** to rate password strength.
-
-### Features  
-- Uppercase, lowercase, digit & special-char checks  
-- Strength score system  
-- Tkinter graphical interface  
-
-📂 Located in: `password-strength-checker/`
+I am continuously learning and improving my skills in **Python, data handling, and analytical thinking**, and I am eager to contribute to meaningful software or data-driven projects.
 
 ---
 
-## 📂 Project Structure  
-student-data-analyzer/
-│
-├── analyze.py
-├── password_checker.py
-├── program2.py
-│
-├── password-checker/
-│ └── password_checker.py
-│
-└── password-strength-checker/
-├── main.py
-├── strength_utils.py
-└── GUI_version.py
+## 🛠️ Technical Skills  
+
+- **Programming:** Python  
+- **Data & Analysis:** Pandas, NumPy, Data Visualization  
+- **Database:** SQL  
+- **Tools:** Git, GitHub  
+- **Concepts:** OOP, Problem Solving, Data Processing  
 
 ---
 
-## ▶️ Demo Screenshot  
-Below is a sample program execution taken from VS Code:
+## 📂 Projects  
 
-<img width="1917" height="1008" alt="Screenshot 2025-11-29 172327" src="https://github.com/user-attachments/assets/2a89deb6-7dc4-4014-a2da-c598dd5f8703" />
+### 🔹 Student Data Analyzer  
+A Python-based project to analyze student data and extract useful insights.  
+- Data processing using Python  
+- Generates summaries and insights  
+- Clean and structured code  
 
+### 🔹 Password Strength Checker  
+A Python mini-project to evaluate password strength based on security rules.  
+- Validates password complexity  
+- User-friendly logic  
+- Focused on security fundamentals  
 
+---
 
-<img width="1820" height="336" alt="Screenshot 2025-11-29 174122" src="https://github.com/user-attachments/assets/995a15f0-e21b-44e3-a2e9-aac4e995fa15" />
+## 🌱 Enhancing Skills In
 
-### 📌 Output Explanation
+- Advanced Python  
+- Data Analytics concepts  
+- SQL optimization  
 
-The program runs a simple Python demo that:
-- Greets the user with a welcome message  
-- Adds two numbers (15 and 30) and displays the sum  
-- Finds all even numbers from 1 to 10  
-- Shows a successful execution message ✔️
+---
 
-This screenshot confirms that the Python script executes without errors.
+## 📫 Connect With Me  
+
+- 💼 LinkedIn:linkedin.com/in/rithika-l  
+- 🧑‍💻 GitHub: https://github.com/Rithika-BEcse  
+
+---
+
+⭐ *Always learning. Always building.*
+
